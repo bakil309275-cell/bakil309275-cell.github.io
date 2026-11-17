@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.bakil309275.alaisai",
-        "sha256_cert_fingerprints": ["94:55:83:57:5B:DB:F1:4F:8D:F4:4B:35:6C:D0:68:A2:C7:7E:D6:E1:1A:63:69:3C:2A:41:2F:39:6F:65:76:24"]
+        "sha256_cert_fingerprints": ["BB:31:C5:7D:35:DC:07:E6:72:97:D1:D4:DD:77:DA:2F:9E:67:1A:39:B2:3B:90:14:A9:C3:C3:0F:DF:5E:AD:72"]
       }
     }]
